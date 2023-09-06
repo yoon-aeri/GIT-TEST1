@@ -5,3 +5,7 @@ git config --global user.name "윤애리"
 
 git config --user.email
 git config --global user.email "aeri1030@gmail.com"
+
+내용 추가 내용 추가
+
+1번째 줄 커밋 메세지 입력 이라고 씀
